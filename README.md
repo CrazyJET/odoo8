@@ -4,3 +4,7 @@ odoo8
 ![image text](https://raw.githubusercontent.com/CrazyJET/odoo8-/master/search_button/static/description/2.png)
 ![image text](https://raw.githubusercontent.com/CrazyJET/odoo8-/master/search_button/static/description/1.png)
 ![image text](https://raw.githubusercontent.com/CrazyJET/odoo8-/master/search_button/static/description/3.png)
+Tree视图添加功能按钮,以采购订单为例
+![image text](https://raw.githubusercontent.com/CrazyJET/odoo8-/master/tree_add_button/static/description/1.png)
+![image text](https://raw.githubusercontent.com/CrazyJET/odoo8-/master/tree_add_button/static/description/2.png)
+![image text](https://raw.githubusercontent.com/CrazyJET/odoo8-/master/tree_add_button/static/description/3.png)
